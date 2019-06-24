@@ -1,6 +1,6 @@
 {
 	"name": "ng-unify-cli",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Angular unified project directory generator. ui library use ng-zorro（Angular统一项目目录生成器，UI组件库使用NG-ZORRO）",
 	"main": "index.js",
 	"repository": {
