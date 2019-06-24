@@ -1,0 +1,31 @@
+{
+	"name": "ng-unify-cli",
+	"version": "0.0.1",
+	"description": "Angular unified project directory generator. ui library use ng-zorro",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hellojayjay/ng-unify-cli.git"
+	},
+	"keywords": [
+		"Angular",
+		"Ng-zorro",
+		"cli",
+		"directory"
+	],
+	"author": "hellojayjay",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/hellojayjay/ng-unify-cli/issues"
+	},
+	"homepage": "https://github.com/hellojayjay/ng-unify-cli#readme",
+	"bin": {
+		"ng-uni": "./bin/ng-unify-cli"
+	},
+	"dependencies": {
+		"chalk": "^2.4.2",
+		"co": "^4.6.0",
+		"co-prompt": "^1.0.0",
+		"commander": "^2.20.0"
+	}
+}
